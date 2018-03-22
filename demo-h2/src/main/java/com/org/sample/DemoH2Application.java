@@ -15,6 +15,6 @@ public class DemoH2Application {
 	
 	@GetMapping("/hello")
 	public String sayHello() {
-		return "Hello.!";
+		return "Hello How r u ?";
 	}
 }
